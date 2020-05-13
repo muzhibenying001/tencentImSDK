@@ -1,5 +1,5 @@
 {
-    "name": "ly/tencent-im-sdk",
+    "name": "luoying/tencent-im-sdk",
     "description": "IM",
     "type": "project",
     "require": {
