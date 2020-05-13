@@ -1,0 +1,24 @@
+{
+    "name": "ly/tencent-im-sdk",
+    "description": "IM",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "6.*",
+        "php": "^7.2",
+        "tencent/tls-sig-api-v2": "^1.0",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luoying",
+            "email": "muzhibenying001@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Luoying\\TencentCloudIM\\": "src/"
+        }
+    }
+}
