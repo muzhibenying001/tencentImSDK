@@ -1,7 +1,7 @@
 {
     "name": "luoying/tencent-im-sdk",
     "description": "IM",
-    "type": "project",
+    "type": "library",
     "require": {
         "guzzlehttp/guzzle": "6.*",
         "php": "^7.2",
